@@ -147,13 +147,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
-    output: true
-  projects:
     output: true
 
 # -----------------------------------------------------------------------------
@@ -199,8 +195,9 @@ exclude:
   - _pages/projects.md
   - _pages/cv.md
   - _pages/books.md
-  - _pages/repositories.md
   - _pages/teaching.md
+  - _posts
+  - _projects
 
 keep_files:
   - CNAME
