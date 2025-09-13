@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://research.tue.nl/en/persons/tianxin-tang'>TU/e website</a>.
+subtitle: <a href='https://research.tue.nl/en/persons/tianxin-tang'>TU/e website</a>
 
 profile:
   align: right
