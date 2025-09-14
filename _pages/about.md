@@ -23,6 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I am Tianxin Tang, a postdoctoral researcher at Eindhoven University of Technology (TU/e) Netherlands, hosted by Andreas Hülsing in the Applied and Provable Security Group. Previously, I was a postdoctoral researcher at ETH Zurich, Switzerland in the Applied Cryptography Group led by Kenny Paterson. I received my Ph.D. in Computer Science under the supervision of Sasha Boldyreva from Georgia Institute of Technology, USA.
+Hello! I am Tianxin Tang, a postdoctoral researcher at Eindhoven University of Technology (TU/e), Netherlands, hosted by [Andreas Hülsing](https://huelsing.net/wordpress/) in the Applied and Provable Security Group. Previously, I was a postdoctoral researcher at ETH Zurich, Switzerland in the Applied Cryptography Group led by [Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I received my Ph.D. in Computer Science under the supervision of [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) from Georgia Institute of Technology, USA.
 
-I am interested in exploring the world of PETs (privacy-enhancing technologies).
+I am interested in provable security and exploring the wonderful world of PETs  (privacy-enhancing technologies).
