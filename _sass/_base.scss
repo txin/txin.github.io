@@ -19,6 +19,12 @@ strong {
   color: var(--global-text-color);
 }
 
+body {
+  // font-family: "Mona Sans", sans-serif;
+  font-family: "Maitree", serif;
+  font-size:1.2rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -26,7 +32,7 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 1.2rem;
     padding: 1px 1rem 1px 0;
   }
 
@@ -229,7 +235,7 @@ ul.task-list input[type="checkbox"] {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
 
   a {
     color: inherit;
@@ -480,7 +486,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
-    text-align: center;
+    text-align: left;
   }
 
   a {
@@ -500,7 +506,7 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 
   .container {
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -596,13 +602,13 @@ footer.sticky-bottom {
 
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      font-size: 1rem;
       margin-bottom: 0;
     }
 
     .post-tags {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      font-size: 1rem;
       padding-top: 0.25rem;
       padding-bottom: 0;
     }
