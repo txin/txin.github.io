@@ -21,7 +21,7 @@ I have served as an external reviewer for the following conferences:
 
 and the following journals:
 
-| Journal Name                                            | Abbreviation |
+| Journal                                                 | Abbreviation |
 | ------------------------------------------------------- | ------------ |
 | IACR Communications in Cryptology                       | CiC          |
 | IEEE Transactions on Information Forensics and Security | TIFS         |
