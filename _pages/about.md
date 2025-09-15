@@ -6,8 +6,8 @@ subtitle: <a href='https://research.tue.nl/en/persons/tianxin-tang'>TU/e website
 
 profile:
   align:
-  image:
-  image_circular:
+  image: 
+  image_circular: 
   more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

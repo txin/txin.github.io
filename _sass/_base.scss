@@ -21,8 +21,8 @@ strong {
 
 body {
   // font-family: "Mona Sans", sans-serif;
-  font-family: "Maitree", serif;
-  font-size:1.1rem;
+   font-family: "Maitree", serif;
+   font-size:1.1rem;
 }
 
 hr {
@@ -235,7 +235,7 @@ ul.task-list input[type="checkbox"] {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 1rem;
+  font-size: 0.875rem;
 
   a {
     color: inherit;
@@ -602,13 +602,13 @@ footer.sticky-bottom {
 
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 1rem;
+      font-size: 0.875rem;
       margin-bottom: 0;
     }
 
     .post-tags {
       color: var(--global-text-color-light);
-      font-size: 1rem;
+      font-size: 0.875rem;
       padding-top: 0.25rem;
       padding-bottom: 0;
     }
