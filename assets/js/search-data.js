@@ -9,16 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-contacts",
-          title: "contacts",
+  },{id: "nav-contact",
+          title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/contacts/";
+            window.location.href = "/contact/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "Authors are listed in alphabetical order, unless stated otherwise.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
