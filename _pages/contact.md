@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contacts
-permalink: /contacts/
+title: contact
+permalink: /contact/
 nav: true
 nav-order: 2
 ---
