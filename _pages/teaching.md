@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -28,8 +28,8 @@ I have served as a teaching assitant or a guest speaker in the following courses
 
 I have supervised the following students.
 
-| Year | Student | Level  | Project | Title|Institution |
-| ---- | --------------- | ------ | ------------------ | ---------------------------------------- | ------------ |
-| 2024 | Jonas Lauer     | Master | Semester project   | Single-Server PIR for Anonymous Messaging  | ETH Zurich |
-| 2023 | Daniel Pöllmann | Master | Master thesis      | Differential Obliviousness and its Limitations     | ETH Zurich |
-| 2023 | Sophia Artioli  | Master | Semester project   | [How Practical is Single-Server Private Information Retrieval?](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/semester-project_sophia-artioli.pdf) | ETH Zurich |
+| Year | Student         | Level  | Project          | Title                                                                                                                                                                                                  | Institution |
+| ---- | --------------- | ------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 2024 | Jonas Lauer     | Master | Semester project | Single-Server PIR for Anonymous Messaging                                                                                                                                                              | ETH Zurich  |
+| 2023 | Daniel Pöllmann | Master | Master thesis    | Differential Obliviousness and its Limitations                                                                                                                                                         | ETH Zurich  |
+| 2023 | Sophia Artioli  | Master | Semester project | [How Practical is Single-Server Private Information Retrieval?](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/semester-project_sophia-artioli.pdf) | ETH Zurich  |
