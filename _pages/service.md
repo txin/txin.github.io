@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-I have served as an external reviewer for the following conferences:
+#### Conference external reviewer
 
 | Conference | Year(s)    |
 | ---------: | ---------- |
@@ -17,9 +17,9 @@ I have served as an external reviewer for the following conferences:
 |        CCS | 2022       |
 |       ACNS | 2025       |
 
-<br>
+---
 
-and the following journals:
+#### Journal reviewer
 
 | Journal                                                 | Abbreviation |
 | ------------------------------------------------------- | ------------ |
@@ -27,8 +27,8 @@ and the following journals:
 | IEEE Transactions on Information Forensics and Security | TIFS         |
 | IEEE Transactions on Dependable and Secure Computing    | TDSC         |
 
-<br>
+---
 
-and the following standardization process:
+#### Standardization external reviewer
 
-- South Korean Post-Quantum Cryptography (KpqC) standardization.
+- South Korean Post-Quantum Cryptography (KpqC) Standardization

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://research.tue.nl/en/persons/tianxin-tang'>TU/e website</a>
+subtitle: # <a href='https://research.tue.nl/en/persons/tianxin-tang'>TU/e website</a>
 
 profile:
   align:
@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Tianxin Tang, a postdoctoral researcher at Eindhoven University of Technology (TU/e), Netherlands, hosted by [Andreas Hülsing](https://huelsing.net/wordpress/) in the Applied and Provable Security Group. Previously, I was a postdoctoral researcher at ETH Zurich, Switzerland in the Applied Cryptography Group led by [Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I received my Ph.D. in Computer Science under the supervision of [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) from Georgia Institute of Technology, USA.
+Hello! I am Tianxin,[^note] a postdoctoral researcher at Eindhoven University of Technology (TU/e), Netherlands, hosted by [Andreas Hülsing](https://huelsing.net/wordpress/) in the Applied and Provable Security Group. Previously, I was a postdoctoral researcher at ETH Zurich, Switzerland in the Applied Cryptography Group led by [Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I received my Ph.D. in Computer Science under the supervision of [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) from Georgia Institute of Technology, USA.
 
 I am interested in provable security and exploring the wonderful world of PETs (privacy-enhancing technologies).
+
+[^note]: pronounced as "Tee-en sheen" in English.

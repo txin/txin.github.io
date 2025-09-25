@@ -22,7 +22,7 @@ I have served as a teaching assitant or a guest speaker in the following courses
 |  OMSCS 6262 | Network Security                 | Spring 2019, Summer 2021 | Georgia Tech          |
 |   COMS12700 | Introduction to Microelectronics | Fall 2013                | University of Bristol |
 
-<br>
+---
 
 ### Supervision
 
