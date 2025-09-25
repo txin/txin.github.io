@@ -47,4 +47,7 @@ ninja.data = [{
         },{id: "news-the-website-is-live",
           title: 'The website is live!',
           description: "",
+          section: "News",},{id: "news-invited-to-the-ccs-2026-committee-applied-cryptography-track",
+          title: 'Invited to the CCS 2026 committee (applied cryptography track)!',
+          description: "",
           section: "News",},];
