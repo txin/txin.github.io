@@ -28,4 +28,4 @@ Hello! I am Tianxin,[^note] a postdoctoral researcher at Eindhoven University of
 
 I am interested in provable security and exploring the wonderful world of PETs (privacy-enhancing technologies).
 
-[^note]: pronounced as "Tee-en sheen" in English.
+[^note]: pronounced as "Tee-an sheen" in English.

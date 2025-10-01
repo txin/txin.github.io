@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to the CCS 2026 committee (applied cryptography track).
+Invited to the CCS 2026 program committee (applied cryptography track).
