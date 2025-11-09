@@ -9,7 +9,7 @@ nav_order: 6
 
 ### Course
 
-I have served as a teaching assitant or a guest speaker in the following courses.
+I have served as a teaching assistant or a guest lecturer in the following courses.
 
 |        Code | Title                            | Term & Year              | Institution           |
 | ----------: | -------------------------------- | ------------------------ | --------------------- |
