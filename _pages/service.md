@@ -7,6 +7,14 @@ nav: true
 nav_order: 7
 ---
 
+#### Program committee
+
+| Conference | Year(s) |
+| ---------: | ------- |
+|        CCS | 2026    |
+
+---
+
 #### Conference external reviewer
 
 | Conference | Year(s)    |
