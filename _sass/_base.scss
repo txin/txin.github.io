@@ -62,6 +62,17 @@ table.table a {
   }
 }
 
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;   /* enables horizontal scroll on mobile */
+  -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
+}
+
+.table-responsive table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);

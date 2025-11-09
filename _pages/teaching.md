@@ -26,10 +26,11 @@ I have served as a teaching assitant or a guest speaker in the following courses
 
 ### Supervision
 
-I have supervised the following students.
+I have (co-)supervised the following students.
 
 | Year | Student         | Level  | Project          | Title                                                                                                                                                                                                  | Institution |
 | ---- | --------------- | ------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| 2024 | Jonas Lauer     | Master | Semester project | Single-Server PIR for Anonymous Messaging                                                                                                                                                              | ETH Zurich  |
+| 2025 | D. Morales Navarrete | Bachelor | Bachelor thesis | An Analytical Study of  Polynomial Commitment  Schemes Based on Lattice  Assumptions | TU/e |
+| 2024 | Jonas Lauer     | Master | Semester project |      Exploring Anonymous One-to-One Messaging with a Single Server                                                                                                                                                         | ETH Zurich  |
 | 2023 | Daniel Pöllmann | Master | Master thesis    | Differential Obliviousness and its Limitations                                                                                                                                                         | ETH Zurich  |
 | 2023 | Sophia Artioli  | Master | Semester project | [How Practical is Single-Server Private Information Retrieval?](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/semester-project_sophia-artioli.pdf) | ETH Zurich  |
