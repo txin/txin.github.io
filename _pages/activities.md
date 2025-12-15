@@ -15,6 +15,14 @@ nav_order: 7
 
 ---
 
+#### Editorial board
+
+|  Journal | Year(s) |
+| -------: | ------- |
+| IACR CiC | 2026    |
+
+---
+
 #### Conference external reviewer
 
 | Conference | Year(s)    |
