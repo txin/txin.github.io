@@ -50,4 +50,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-the-ccs-2026-program-committee-applied-cryptography-track",
           title: 'Invited to the CCS 2026 program committee (applied cryptography track).',
           description: "",
+          section: "News",},{id: "news-invited-to-the-iacr-cic-2026-editorial-board",
+          title: 'Invited to the IACR CiC 2026 Editorial board.',
+          description: "",
           section: "News",},];
