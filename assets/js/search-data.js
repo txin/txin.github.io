@@ -51,6 +51,6 @@ ninja.data = [{
           title: 'Invited to the CCS 2026 program committee (applied cryptography track).',
           description: "",
           section: "News",},{id: "news-invited-to-the-iacr-cic-2026-editorial-board",
-          title: 'Invited to the IACR CiC 2026 Editorial board.',
+          title: 'Invited to the IACR CiC 2026 editorial board.',
           description: "",
           section: "News",},];
