@@ -53,4 +53,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-the-iacr-cic-2026-editorial-board",
           title: 'Invited to the IACR CiC 2026 editorial board.',
           description: "",
+          section: "News",},{id: "news-talk-proposal-sprinkle-differential-privacy-on-a-bit-of-everything-was-accepted-to-real-world-crypto-2026-looking-forward-to-visiting-taipei-in-march-2026-unfortunately-the-other-submission-on-learning-functionality-outputs-was-not-accepted",
+          title: 'Talk proposal “Sprinkle Differential Privacy on a Bit of Everything” was accepted to...',
+          description: "",
           section: "News",},];
