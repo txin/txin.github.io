@@ -24,8 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Tianxin,[^note] a postdoctoral researcher at Eindhoven University of Technology (TU/e), Netherlands, hosted by [Andreas Hülsing](https://huelsing.net/wordpress/) in the Applied and Provable Security Group. Previously, I was a postdoctoral researcher at ETH Zurich, Switzerland in the Applied Cryptography Group led by [Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I received my Ph.D. in Computer Science under the supervision of [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) from Georgia Institute of Technology, USA.
+Hello! I am Tianxin,[^note] a lecturer[^lecturer] at University of Glasgow, UK. Before, I was a postdoctoral researcher at Eindhoven University of Technology (TU/e), Netherlands, hosted by [Andreas Hülsing](https://huelsing.net/wordpress/) in the Applied and Provable Security Group, and at ETH Zurich, Switzerland in the Applied Cryptography Group led by [Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I received my Ph.D. in Computer Science under the supervision of [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) from Georgia Institute of Technology, USA.
 
-I am interested in provable security and exploring the wonderful world of PETs (privacy-enhancing technologies).
+I am interested in provable security and exploring the wonderful world of PETs (privacy-enhancing technologies). Some of my recent research interests include post-quantum cryptography and formal verification.
 
 [^note]: pronounced as "Tee-an sheen" in English.
+[^lecturer]: yeah, kind of like 'assistant professor' in the US academic ranking system; if you are interested, here is the [wiki link](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom).
