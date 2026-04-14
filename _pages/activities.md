@@ -28,7 +28,7 @@ nav_order: 7
 | Conference | Year(s)    |
 | ---------: | ---------- |
 |  Eurocrypt | 2021, 2024 |
-|     Crypto | 2022       |
+|     Crypto | 2022, 2026 |
 |  Asiacrypt | 2024       |
 |        CCS | 2022       |
 |       ACNS | 2025       |
