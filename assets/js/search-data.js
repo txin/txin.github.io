@@ -59,7 +59,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-a-new-position-at-the-university-of-glasgow-uk-back-in-the-uk-did-my-undergrad-in-bristol-but-this-time-in-scotland-feel-free-to-email-me-if-you-would-like-to-have-a-research-random-chat-and-are-around-definitely-recommend-the-fringe-festival-in-edinburgh-in-august-i-ve-been-there-twice-before-and-planning-to-travel-there-from-glasgow-again-this-time",
           title: 'Started a new position at the University of Glasgow, UK. Back in the...',
           description: "",
-          section: "News",},{id: "news-i-am-looking-for-a-fully-funded-phd-student-to-work-with-me-co-supervised-by-shahid-raza-on-provable-security-with-a-focus-on-post-quantum-cryptography-and-its-applications-the-official-job-ad-is-not-out-yet-but-if-you-are-interested-or-have-any-questions-about-this-position-please-email-me-at-job-at-this-domain-address",
+          section: "News",},{id: "news-i-am-looking-for-a-fully-funded-phd-student-to-work-with-me-co-supervised-by-shahid-raza-on-provable-security-with-a-focus-on-post-quantum-cryptography-and-its-applications-the-official-job-ad-is-here-if-you-are-interested-or-have-any-questions-about-this-position-please-email-me-at-job-at-this-domain-address",
           title: 'I am looking for a (fully-funded) PhD student to work with me, co-supervised...',
           description: "",
           section: "News",},];
