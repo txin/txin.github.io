@@ -17,8 +17,8 @@ I have served as a teaching assistant or a guest lecturer in the following cours
 
 |        Code | Title                            | Term & Year              | Institution           |
 | ----------: | -------------------------------- | ------------------------ | --------------------- |
-|      2DMI10 | Applied Cryptography             | Semester A Q2 2024       | TU/e                  |
-|      2MBD60 | Introduction to Cryptology       | Semester A Q2 2024       | TU/e                  |
+|      2DMI10 | Applied Cryptography             | Semester A Q2 2024,2025  | TU/e                  |
+|      2MBD60 | Introduction to Cryptology       | Semester A Q2 2024,2025  | TU/e                  |
 | 252-0341-01 | BigData                          | Fall 2023                | ETH Zurich            |
 | 252-0341-01 | Information Retrieval            | Spring 2023              | ETH Zurich            |
 | 401-0131-00 | Linear Algebra                   | Fall 2022                | ETH Zurich            |
