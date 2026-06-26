@@ -7,15 +7,16 @@ nav: true
 nav_order: 7
 ---
 
-#### Program committee
+## Program committee
 
 | Conference | Year(s) |
 | ---------: | ------- |
+|        USENIX SEC | 2027    |
 |        CCS | 2026    |
 
 ---
 
-#### Editorial board
+## Editorial board
 
 |  Journal | Year(s) |
 | -------: | ------- |
@@ -23,7 +24,7 @@ nav_order: 7
 
 ---
 
-#### Conference external reviewer
+## Conference external reviewer
 
 | Conference | Year(s)    |
 | ---------: | ---------- |
@@ -35,7 +36,7 @@ nav_order: 7
 
 ---
 
-#### Journal reviewer
+## Journal reviewer
 
 | Journal                                                 | Abbreviation |
 | ------------------------------------------------------- | ------------ |
@@ -45,6 +46,6 @@ nav_order: 7
 
 ---
 
-#### Standardization external reviewer
+## Standardization external reviewer
 
 - South Korean Post-Quantum Cryptography (KpqC) Standardization

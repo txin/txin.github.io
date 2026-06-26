@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Authors are listed in alphabetical order, unless stated otherwise.
+description: Authors are listed in alphabetical order by default, as is common in the cryptography field. The asterisk (*) denotes publications for which authors are listed by contribution.
 nav: true
 nav_order: 2
 ---

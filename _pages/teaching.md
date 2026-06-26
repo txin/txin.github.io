@@ -7,7 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-### Course
+## Teaching at University of Glasgow
+
+I am one of the main lecturers for COMPSCI5120 Principles of Cybersecurity in the up-coming semseter Fall 2026. I am re-designing the course materials and will teach the network, web and system security part.
+
+## Old stuff
 
 I have served as a teaching assistant or a guest lecturer in the following courses.
 
@@ -24,7 +28,7 @@ I have served as a teaching assistant or a guest lecturer in the following cours
 
 ---
 
-### Supervision
+## Supervision
 
 I have (co-)supervised the following students.
 
