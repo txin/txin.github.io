@@ -11,7 +11,7 @@ nav_order: 6
 
 I am one of the main lecturers for COMPSCI5120 Principles of Cybersecurity in the up-coming semseter Fall 2026 at Univeristy of Glasgow. I am re-designing the course materials and will teach the network, web and system security part.
 
-## Old stuff
+## Before
 
 I have served as a teaching assistant or a guest lecturer in the following courses.
 
