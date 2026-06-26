@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Authors are listed in alphabetical order, unless stated otherwise.",
+          description: "Authors are listed in alphabetical order by default, as is common in the cryptography field. The asterisk (*) denotes publications for which authors are listed by contribution.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -61,5 +61,8 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-am-looking-for-a-fully-funded-phd-student-to-work-with-me-co-supervised-by-shahid-raza-on-provable-security-with-a-focus-on-post-quantum-cryptography-and-its-applications-here-is-the-official-job-ad-if-you-are-interested-or-have-any-questions-about-this-position-please-email-me-at-job-at-this-domain-address",
           title: 'I am looking for a (fully-funded) PhD student to work with me, co-supervised...',
+          description: "",
+          section: "News",},{id: "news-invited-to-the-usenix-security-2027-program-committee",
+          title: 'Invited to the Usenix Security 2027 program committee.',
           description: "",
           section: "News",},];
