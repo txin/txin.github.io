@@ -72,4 +72,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-the-usenix-security-2027-program-committee",
           title: 'Invited to the Usenix Security 2027 program committee.',
           description: "",
+          section: "News",},{id: "news-invited-to-ukri-epsrc-engineering-and-physical-sciences-research-council-peer-review-college",
+          title: 'Invited to UKRI EPSRC (Engineering and Physical Sciences Research Council) Peer Review College....',
+          description: "",
           section: "News",},];
