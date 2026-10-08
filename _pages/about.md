@@ -30,7 +30,7 @@ I am interested in provable security and exploring the wonderful world of PETs (
 
 If you are interested in working with me, just send me an email (see 'contact' for email addresses)!
 
-My office: 302 Sir Alwyn Williams Building
+**My office:** 302 Sir Alwyn Williams Building
 
 [^note]: pronounced as "Tee-an sheen" in English.
 [^lecturer]: yeah, kind of like 'assistant professor' in the US academic ranks; here is the [wiki link](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom).
